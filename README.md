@@ -13,3 +13,7 @@ Email: vgjys57nv@relay.firefox.com
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 * https://www.atlassian.com/git/tutorials/comparing-workflows
+
+Note:
+
+This was made during the workshop for Our Lady of Fatima University May 29, 2021.
